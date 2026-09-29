@@ -251,7 +251,7 @@ with st.sidebar:
         st.image(
             str(SIDEBAR_IMAGE),
             caption="GraphBook Library",
-            width=220,
+            width=120,
         )
     else:
         st.info(
